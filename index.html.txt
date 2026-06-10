@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+    <title>Finn VR Consult | Business Development, Staffing & VR Therapy — Helsinki, Finland</title>
+    <meta name="description" content="Finn VR Consult (Mielen Tasapaino) helps educational and care organisations in Finland and Europe hire qualified staff, build resilient teams, and integrate immersive VR technology for workplace well-being. Based in Helsinki." />
+    <meta name="keywords" content="business development Finland, VR therapy Helsinki, workplace well-being consultant, staff recruitment Finland, educational organisation staffing, Nordic management consulting, Mielen Tasapaino, Finn VR, team well-being Europe, organisational continuity, project leasing Finland" />
+    <meta name="author" content="Finn VR Consult" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://finnvr.fi/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://finnvr.fi/" />
+    <meta property="og:title" content="Finn VR Consult | Business Development, Staffing & VR Therapy — Helsinki" />
+    <meta property="og:description" content="We help organisations in Finland and Europe hire qualified staff, strengthen team capacity, and integrate immersive VR tools for sustainable workplace well-being. Services priced in euro (€)." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:locale:alternate" content="fi_FI" />
+    <meta property="og:locale:alternate" content="ar_AE" />
+    <meta property="og:site_name" content="Finn VR Consult" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Finn VR Consult | Business Development & VR Therapy Helsinki" />
+    <meta name="twitter:description" content="Nordic business development, staffing solutions, and VR well-being therapy for educational and care organisations across Finland and Europe." />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Finn VR Consult",
+      "alternateName": "Mielen Tasapaino",
+      "description": "Business development consultancy and VR therapy services for educational and care organisations in Finland and Europe.",
+      "url": "https://finnvr.fi",
+      "telephone": "+358404671225",
+      "email": "finnvr@finnvr.fi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Panimokatu 2",
+        "addressLocality": "Helsinki",
+        "postalCode": "00580",
+        "addressCountry": "FI"
+      },
+      "areaServed": ["FI", "EU"],
+      "serviceType": ["Business Development", "Staff Recruitment", "VR Therapy", "Workplace Well-being", "Organisational Consulting"],
+      "priceRange": "€€",
+      "currenciesAccepted": "EUR"
+    }
+    </script>
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
